@@ -23,4 +23,7 @@ function M.setup()
     })
 end
 
+M.lazy = true
+M.priority = 50
+
 return M
